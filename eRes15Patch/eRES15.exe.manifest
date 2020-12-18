@@ -231,7 +231,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>cu1cPmQwxN3sQTxUKBL0tlkP1kg=</dsig:DigestValue>
+        <dsig:DigestValue>GhaBvpftkSnPPyZPBHr4rlK6GEM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -440,14 +440,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="T_SALES.dll" size="2795520">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="T_SALES.dll" size="2801664">
       <assemblyIdentity name="T_SALES" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>di+vUXxhrXa9UKL20Lg9Xhft7l4=</dsig:DigestValue>
+        <dsig:DigestValue>YcvdVjhpVHEi1Lktx5n+6gS2yj0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
